@@ -18,5 +18,5 @@ namespace FlyweightPattern.FlyweightFactory
         {
             return _orders.Count;
         }
-    }
+    } 
 }
